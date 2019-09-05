@@ -12,7 +12,7 @@ namespace console_calculator
         static void Main(string[] args)
         {
             double n1 = 0, n2 = 0, result = 0;
-            Console.WriteLine("console calculator app");
+            Console.WriteLine("console calculator app asss");
             Console.WriteLine("enter 1st number");
             n1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("enter choice");
